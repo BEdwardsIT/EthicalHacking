@@ -1,45 +1,12 @@
 # Ethical Hacking for Beginners
 Here are some projects those interested in learning ethical hacking/ penetration testing.
 
-<h1>Active Directory Home Lab</h1>
-
-<h2>Introduction</h2>
-
-Welcome to my Active Directory Home Lab Project! This project is designed to help IT enthusiasts and professionals set up a simulated Active Directory environment. By following this guide, you'll gain hands-on experience with AD administration, user creation with PowerShell, and essential networking services like Remote Access Server and Network Address Translation as well as DNS and DHCP.
-
-Whether you're preparing for certifications, enhancing your skills, or just exploring AD functionalities, this home lab provides a practical and controlled environment to experiment and learn.
-
-Here's a diagram of our lab. As you can see, it outlines all of the tools we'll be using to complete the project. <br/>
-<br/>
-![IP Diagram1](https://github.com/user-attachments/assets/ef52c009-e5f6-4421-8db9-f2e819ba102b)
-
-
-<br />
-
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>Active Directory</b>
-- <b>PowerShell</b> 
-- <b>CMD</b>
-
-<h2>Environments Used </h2>
-
-- <b>Oracle VirtualBox</b>
-- <b>Windows 10</b> (21H2)</b>
-- <b>Windows Server 2022</b>
-
-<h2>Links</h2>
-
-- <b>Oracle: https://www.virtualbox.org</b>
-- <b>Windows 10: https://www.microsoft.com/en-us/software-download/windows10</b>
-- <b>Windows Server 2022: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022</b>
 
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>Active Directory Lab Walkthrough</h1>
+            <h1></h1>
             <nav>
                 <ul>
                     <li><a href="#step1">Step 1</a></li>
